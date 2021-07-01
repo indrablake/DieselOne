@@ -25,8 +25,6 @@
     for($a=$hurufB; $a>0; $a--){
         $res2 = print("B");
     }
-    for($hurufA=3; $hurufA>0; $a--){
-    }
     echo join(" ",$arr);
    
     
